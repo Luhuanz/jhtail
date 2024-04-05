@@ -1,8 +1,7 @@
-baseurl: "https://lzxqaq.com"
+baseurl: "https://Luhuanz.github.io/"
 languageCode: "zh-cn"
-title: "Shaka| 沙加"
+title: "Jh|佳欢"
 theme: "hugo-ivy"
-googleAnalytics: "G-KDTTBGMLCQ"
 disqusShortname: ""
 ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
 preserveTaxonomyNames: true
@@ -28,17 +27,24 @@ menu:
       weight: 2
     - name: "日常"
       url: "/todos/"
-      weight: 3      
-    - name: "关于"
-      url: "/about/"
+      weight: 3     
+    - name: "数学"
+      url: "/maths/"
       weight: 4
+    - name: "编程"
+      url: "/arecycle/"
+      weight: 5
     - name: "标签"
       url: "/tags/"
-      weight: 5
+      weight: 6
+    - name: "关于"
+      url: "/about/"
+      weight: 7
+   
 
 params:
   description: "我唯一知道的是我一无所知。"
-  footer: "&copy; [Zexun Luo](https://lzxqaq.com) 2020-{Year} | [Github](https://github.com/lzxqaq)"
+  footer: "&copy; [Jia huan](https://lzxqaq.com) 2023-{Year} | [Github](https://github.com/Luhuanz)"
   highlightjsLang: ["latex"]
   highlightjsTheme: "github"
   highlightjsVersion: "11.7.0"
@@ -61,17 +67,17 @@ params:
 
   logo:
     en:
-      img: "https://cdn.jsdelivr.net/gh/lzxqaq/jsdelivr@master/image/logo.png"
+      img: "https://s2.loli.net/2024/04/05/9L5IpMU7Ff6yiT3.png"
       url: "/"
-      alt: "Zexun Luo"
+      alt: "Jiahuan"
       tag: ""
   
   cover:
-    img: "https://cdn.jsdelivr.net/gh/lzxqaq/jsdelivr@master/image/costumes/la-voie-lacte-robe-et-manteau-pour-le-soir-de-worth-1921-fashion-illustration-in-high-resolution-by-george-barbier-original-from-the-rijksmuseum-digitally-enhanced-by-rawpixel_50805758336_o.jpg"
+    img: "https://cdn.jsdelivr.net/gh/Luhuanz/hugocdn/gb.jpg"
 
   author:
-    en: "Shaka"
-    cn: "沙加"
+    en: "Luke"
+    cn: "佳欢"
 
   lang:
     edit:
